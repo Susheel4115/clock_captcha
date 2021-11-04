@@ -147,7 +147,7 @@ html {
 body {
   height: 100%;
   line-height: 1;
-  background: #c7f817;
+  background: #080808;
   font-family: roboto, helvetica, sans-serif, arial, verdana, tahoma;
   font-size: 16px;
   color: rgb(8, 8, 8);
@@ -182,7 +182,7 @@ body {
   vertical-align: middle;
   width: 40px;
   height: 40px;
-  background-color: #9b59b6;
+  background-color: #dee9dc;
   background-size: 24px 24px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -201,7 +201,7 @@ body {
   font-size: 42px;
 }
 .container > .inner > .date > .day {
-  color: #9b59b6;
+  color: #e8e1eb;
   font-weight: bold;
 }
 .signed {
@@ -220,7 +220,7 @@ body {
   display: block;
   padding: 15px;
   background: #fff;
-  border: 1px solid #9b59b6;
+  border: 1px solid #e2d5e7;
   min-height: 150px;
   max-height: 150px;
 }
@@ -255,9 +255,9 @@ form.ddos_form button {
   display: block;
   width: 300px;
   margin: 0 auto;
-  background: #9b59b6;
+  background: #d9d2db;
   cursor: pointer;
-  color: #fff;
+  color: rgb(250, 151, 151);
   font-size: 16px;
   text-transform: uppercase;
   text-align: center;
